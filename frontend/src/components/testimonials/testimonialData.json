@@ -1,0 +1,38 @@
+{
+  "header": {
+    "badgeText": "Testimonials",
+    "title": "What partners say about working with us"
+  },
+  "items": [
+    {
+      "company": "Celo DAO Africa",
+      "logo": "celo.jpg",
+      "description": "Operations Lead",
+      "testimonial": "They mapped our workflow in days and delivered a stable platform our field team could rely on—no more patchwork spreadsheets."
+    },
+    {
+      "company": "Bridge Finance Collective",
+      "logo": "celo.jpg",
+      "description": "Product Manager",
+      "testimonial": "Scope was clear at every milestone. Each release addressed a real bottleneck instead of vanity features."
+    },
+    {
+      "company": "Northwind Logistics NG",
+      "logo": "celo.jpg",
+      "description": "Technology Director",
+      "testimonial": "Architecture, testing, and handover documentation were stronger than we typically see from external teams."
+    },
+    {
+      "company": "Community Health Partners",
+      "logo": "celo.jpg",
+      "description": "Program Lead",
+      "testimonial": "We went from scattered tools to one system people actually log into—adoption exceeded our expectations."
+    },
+    {
+      "company": "AfriGrid Utilities",
+      "logo": "celo.jpg",
+      "description": "Head of Delivery",
+      "testimonial": "Complex delivery with tight coordination; they stayed accountable after go-live when issues surfaced."
+    }
+  ]
+}

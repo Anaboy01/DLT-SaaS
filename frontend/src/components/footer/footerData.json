@@ -1,0 +1,31 @@
+{
+  "cta": {
+"title": "Plan your next product with DLTHub",
+"subtitle": "About 30 minutes to align on goals, constraints, and next steps, then we follow up with a clear path to scope and delivery.",
+    "buttonText": "Book a discovery call",
+    "image": "dlt.png"
+  },
+  "brand": {
+    "logo": "dltMonoWhite.png",
+    "logoAlt": "DLTHub"
+  },
+  "socials": [
+    { "icon": "FaFacebook", "link": "https://dlthub.org" },
+    { "icon": "FaInstagram", "link": "https://dlthub.org" },
+    { "icon": "FaLinkedin", "link": "https://dlthub.org" },
+    { "icon": "FaXTwitter", "link": "https://dlthub.org" },
+    { "icon": "FaGithub", "link": "https://dlthub.org" }
+  ],
+  "contact": {
+    "title": "Contact",
+    "location": "2, Sheikh Zakariyah Adebayo Yusuf Street, PEGAMUT, 102112, Ota, Ogun State",
+    "phone": {
+      "display": "(234)815 650 9701",
+      "href": "tel:+2348156509701"
+    },
+    "email": {
+      "display": "info@dlthub.org",
+      "href": "mailto:info@dlthub.org"
+    }
+  }
+}
